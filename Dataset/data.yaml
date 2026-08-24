@@ -1,0 +1,14 @@
+path: Images
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 14
+names: ['Adaptor', 'Allen Key', 'Bit Holder', 'Bit Sockets', 'Bits', 'Deep Socket', 'Extension Bar', 'Flex Handle', 'Rachet-Handels', 'S Handle', 'Sockets', 'Spanners', 'long bit socket', 'universal joint']
+
+roboflow:
+  workspace: aditya-x93eb
+  project: testing-toolkit-qjrp6
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aditya-x93eb/testing-toolkit-qjrp6/dataset/1

@@ -1,0 +1,17 @@
+# Core ML & Computer Vision
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+pillow>=9.5.0
+numpy>=1.24.0
+
+# Data Analysis & Excel Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# RealSense Camera Support
+pyrealsense2>=2.50.0; platform_system == "Windows" or platform_system == "Linux"
+
+# GUI Framework
+PyQt5>=5.15.0

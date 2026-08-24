@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Compiled Executables
+*.manifest
+*.spec
+*.exe
+App/*.exe
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Outputs & Generated Media
+Output/Output_Imgs/*.png
+Output/Output_Imgs/*.jpg
+Output/Output_Imgs/*.jpeg
+Output/Output_Imgs/*.mp4
+CapturedData/
+Result/
+Results/Inference/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Exception for main application binary
+!App/App.exe
