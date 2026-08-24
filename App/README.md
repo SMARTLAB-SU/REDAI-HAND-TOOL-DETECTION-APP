@@ -1,12 +1,12 @@
 # REDAI Hand Tool Detection Application
 
-This directory contains the compiled Windows application executable, source code, and installer setup scripts.
+This directory contains the application download link, source code, and installer setup scripts.
 
 ## 💾 Application Executable Download
 
-The pre-compiled standalone Windows executable (`App.exe` / `main.exe`) is hosted on Google Drive:
+Click the link below to download the standalone Windows executable (`App.exe`):
 
-- 🚀 **Download Executable (`App.exe`):** [Download App.exe from Google Drive](https://drive.google.com/file/d/1K2EkOdG_1VfzNfkzcvB0EkTEIUGKXVhO/view?usp=drive_link)
+👉 [https://drive.google.com/file/d/1K2EkOdG_1VfzNfkzcvB0EkTEIUGKXVhO/view?usp=drive_link](https://drive.google.com/file/d/1K2EkOdG_1VfzNfkzcvB0EkTEIUGKXVhO/view?usp=drive_link)
 
 ---
 

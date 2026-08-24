@@ -33,3 +33,5 @@ Results/Inference/
 
 # Exception for main application binary
 !App/App.exe
+
+!App/App.exe.md
